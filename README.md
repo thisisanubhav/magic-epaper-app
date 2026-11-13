@@ -1,6 +1,6 @@
-<img height="200px" src="./assets/icons/app_icon_desktop.png" align="right" />
-
 # Magic ePaper
+
+<img height="200px" src="./assets/icons/app_icon_desktop.png" align="right" />
 
 [![Build](https://img.shields.io/github/actions/workflow/status/fossasia/magic-epaper-app/push.yml?branch=main&label=build&logo=github)](https://github.com/fossasia/magic-epaper-app/actions/workflows/push.yml)
 [![License](https://img.shields.io/github/license/fossasia/magic-epaper-app)](LICENSE.md)
